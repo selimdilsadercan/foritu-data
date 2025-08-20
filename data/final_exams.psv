@@ -1,0 +1,251 @@
+CRN|Course Code|Course Number|Course Name|Academician|Exam Type|Exam Location|Day|Time|Date|Branch Code
+30011|IKZ|517|Yönetimsel Karar Verme|Yusuf İlker Topcu|Final Sınavı|İlgili Bölümce Açıklanacak|Salı|09:00-11:00|19 Ağustos 2025|IKZ
+30012|IKZ|516|Yönetim Analitiği|Çiğdem Kadaifçi Yanmaz|Final Sınavı|İlgili Bölümce Açıklanacak|Çarşamba|09:00-11:00|20 Ağustos 2025|IKZ
+30033|IKZ|599|Dönem Projesi|Gaye Karaçay Aydın|Final Sınavı|İlgili Bölümce Açıklanacak|Pazartesi|09:00-11:00|18 Ağustos 2025|IKZ
+30080|UCK|305E|Aerodynamics|Hayri Acar|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10, Ayazağa/Merkezi Derslik C Binası-2D18, Ayazağa/Merkezi Derslik C Binası-3D20|Çarşamba|12:00-14:00|20 Ağustos 2025|UCK
+30081|UZB|310E|Compressible Aerodynamics|Hayri Acar|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10, Ayazağa/Merkezi Derslik C Binası-2D18|Perşembe|09:00-11:00|21 Ağustos 2025|UZB
+30082|UCK|322E|Flight Mechanics|Hayri Acar|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10, Ayazağa/Merkezi Derslik C Binası-2D18|Perşembe|15:00-17:00|21 Ağustos 2025|UCK
+30083|MTO|214|Atmosfer Termodinamiği|Kasım Koçak|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-ZA1|Perşembe|15:00-17:00|21 Ağustos 2025|MTO
+30084|MTO|311E|Data Analysis|Kasım Koçak|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-2D18|Cuma|15:00-17:00|22 Ağustos 2025|MTO
+30085|BIL|112E|Intr.to Prog.Language(FORTRAN)|Ahmet Öztopal|Final Sınavı|Ayazağa/İnşaat Binası-D101|Salı|12:00-14:00|19 Ağustos 2025|BIL
+30086|MYZ|312|Meteorolojide Makine Öğrenmesi|Ahmet Öztopal|Final Sınavı|Ayazağa/İnşaat Binası-D101|Çarşamba|15:00-17:00|20 Ağustos 2025|MYZ
+30087|MTO|340|Atmosfer Dinamiği II|Elçin Tan|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10|Cumartesi|12:00-14:00|16 Ağustos 2025|MTO
+30088|BIL|100E|Intr.to Prog.Language(PYTHON)|Ahmet Öztopal|Final Sınavı|Ayazağa/İnşaat Binası-D101|Çarşamba|12:00-14:00|20 Ağustos 2025|BIL
+30089|MAT|103E|Mathematics I|Burhaneddin İzgi|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A11, Ayazağa/Merkezi Derslik Binası-A12, Ayazağa/Merkezi Derslik Binası-A13|Cumartesi|15:00-17:00|16 Ağustos 2025|MAT
+30090|MAT|103E|Mathematics I|Burhaneddin İzgi|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A14, Ayazağa/Merkezi Derslik Binası-A15, Ayazağa/Merkezi Derslik Binası-A16|Cumartesi|15:00-17:00|16 Ağustos 2025|MAT
+30091|MAT|103E|Mathematics I|Soner Aydınlık|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A31, Ayazağa/Merkezi Derslik Binası-A32, Ayazağa/Merkezi Derslik Binası-A33, Ayazağa/Merkezi Derslik Binası-A34, Ayazağa/Merkezi Derslik Binası-A35, Ayazağa/Merkezi Derslik Binası-A36, Ayazağa/Merkezi Derslik Binası-B32|Cumartesi|15:00-17:00|16 Ağustos 2025|MAT
+30092|MAT|103E|Mathematics I|Mehmet Ali Karaca|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D101, Ayazağa/Fen-Edebiyat Binası-D102, Ayazağa/Fen-Edebiyat Binası-D103, Ayazağa/Fen-Edebiyat Binası-D104, Ayazağa/Fen-Edebiyat Binası-D105, Ayazağa/Fen-Edebiyat Binası-D106|Cumartesi|15:00-17:00|16 Ağustos 2025|MAT
+30093|MAT|103E|Mathematics I|Mehmet Ali Karaca|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D201, Ayazağa/Fen-Edebiyat Binası-D202, Ayazağa/Fen-Edebiyat Binası-D203, Ayazağa/Fen-Edebiyat Binası-D204, Ayazağa/Fen-Edebiyat Binası-D205, Ayazağa/Fen-Edebiyat Binası-D206|Cumartesi|15:00-17:00|16 Ağustos 2025|MAT
+30094|MAT|104E|Mathematics II|Füsun Zengin|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A11, Ayazağa/Merkezi Derslik Binası-A12, Ayazağa/Merkezi Derslik Binası-A13|Cumartesi|09:00-11:00|16 Ağustos 2025|MAT
+30095|MAT|104E|Mathematics II|Füsun Zengin|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A14, Ayazağa/Merkezi Derslik Binası-A15, Ayazağa/Merkezi Derslik Binası-A16|Cumartesi|09:00-11:00|16 Ağustos 2025|MAT
+30096|MAT|104E|Mathematics II|Nurhan Çolakoğlu|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A31, Ayazağa/Merkezi Derslik Binası-A32, Ayazağa/Merkezi Derslik Binası-A33|Cumartesi|09:00-11:00|16 Ağustos 2025|MAT
+30097|MAT|104E|Mathematics II|Nurhan Çolakoğlu|Final Sınavı|Ayazağa/Merkezi Derslik Binası-B32, Ayazağa/Merkezi Derslik Binası-A34, Ayazağa/Merkezi Derslik Binası-A35, Ayazağa/Merkezi Derslik Binası-A36|Cumartesi|09:00-11:00|16 Ağustos 2025|MAT
+30098|MAT|104E|Mathematics II|Sezgin Altay Demirbağ|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D101, Ayazağa/Fen-Edebiyat Binası-D102, Ayazağa/Fen-Edebiyat Binası-D103, Ayazağa/Fen-Edebiyat Binası-D104, Ayazağa/Fen-Edebiyat Binası-D105, Ayazağa/Fen-Edebiyat Binası-D106|Cumartesi|09:00-11:00|16 Ağustos 2025|MAT
+30099|MAT|104E|Mathematics II|Sezgin Altay Demirbağ|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D201, Ayazağa/Fen-Edebiyat Binası-D202, Ayazağa/Fen-Edebiyat Binası-D203, Ayazağa/Fen-Edebiyat Binası-D204, Ayazağa/Fen-Edebiyat Binası-D205, Ayazağa/Fen-Edebiyat Binası-D206|Cumartesi|09:00-11:00|16 Ağustos 2025|MAT
+30100|MAT|287|Matematik III|Kamil Oruçoğlu|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A11|Çarşamba|09:00-11:00|20 Ağustos 2025|MAT
+30101|MAT|234|Kısmi Diferansiyel Denklemler|Kamil Oruçoğlu|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A11|Çarşamba|12:00-14:00|20 Ağustos 2025|MAT
+30102|TUR|121|Türk Dili I|Hasan Ulucutsoy|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A11|Salı|15:00-17:00|19 Ağustos 2025|TUR
+30103|TUR|121|Türk Dili I|Hasan Ulucutsoy|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A12|Salı|15:00-17:00|19 Ağustos 2025|TUR
+30104|TUR|121|Türk Dili I|İnci Pamuk|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A13|Salı|15:00-17:00|19 Ağustos 2025|TUR
+30105|TUR|121|Türk Dili I|Timur Aydın|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A14|Salı|15:00-17:00|19 Ağustos 2025|TUR
+30106|TUR|121|Türk Dili I|Timur Aydın|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A15|Salı|15:00-17:00|19 Ağustos 2025|TUR
+30107|TUR|121|Türk Dili I|Timur Aydın|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A16|Salı|15:00-17:00|19 Ağustos 2025|TUR
+30108|TUR|122|Türk Dili II|Hasan Ulucutsoy|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A11|Salı|09:00-11:00|19 Ağustos 2025|TUR
+30109|TUR|122|Türk Dili II|İnci Pamuk|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A12|Salı|09:00-11:00|19 Ağustos 2025|TUR
+30110|TUR|122|Türk Dili II|Timur Aydın|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A13|Salı|09:00-11:00|19 Ağustos 2025|TUR
+30111|TUR|122|Türk Dili II|Timur Aydın|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A14|Salı|09:00-11:00|19 Ağustos 2025|TUR
+30112|TUR|122|Türk Dili II|Timur Aydın|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A15|Salı|09:00-11:00|19 Ağustos 2025|TUR
+30113|KIM|101|Genel Kimya I|Altuğ Mert Sevim|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A11|Pazar|09:00-11:00|17 Ağustos 2025|KIM
+30114|KIM|101E|General Chemistry I|Altuğ Mert Sevim|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A12, Ayazağa/Merkezi Derslik Binası-A13|Pazar|09:00-11:00|17 Ağustos 2025|KIM
+30115|KIM|101E|General Chemistry I|Argun Talat Gökçeören|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A14, Ayazağa/Merkezi Derslik Binası-A15, Ayazağa/Merkezi Derslik Binası-A16|Pazar|09:00-11:00|17 Ağustos 2025|KIM
+30116|KIM|101E|General Chemistry I|Argun Talat Gökçeören|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A31|Pazar|09:00-11:00|17 Ağustos 2025|KIM
+30117|KIM|202|Fiziksel Kimya|Erdem Yavuz|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D105|Çarşamba|15:00-17:00|20 Ağustos 2025|KIM
+30118|KIM|202E|Physical Chemistry|Erdem Yavuz|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D306|Çarşamba|15:00-17:00|20 Ağustos 2025|KIM
+30119|KIM|224E|Inorganic Chemistry II|Altuğ Mert Sevim|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D101|Perşembe|12:00-14:00|21 Ağustos 2025|KIM
+30120|KIM|231|Organik Kimya I|Turan Öztürk|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D101|Çarşamba|15:00-17:00|20 Ağustos 2025|KIM
+30121|KIM|232|Organik Kimya II|Turan Öztürk|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D306|Pazartesi|12:00-14:00|18 Ağustos 2025|KIM
+30123|MAL|201E|Materials Science|Emin Çiftçi|Final Sınavı|Ayazağa/Maden Binası-A203|Perşembe|12:00-14:00|21 Ağustos 2025|MAL
+30124|JEO|355E|Sedimentology|Emin Çiftçi|Final Sınavı|Ayazağa/Maden Binası-A203|Çarşamba|12:00-14:00|20 Ağustos 2025|JEO
+30125|JEO|112|Genel Jeoloji|Kürşad Kadir Eriş|Final Sınavı|Ayazağa/Maden Binası-A204|Salı|09:00-11:00|19 Ağustos 2025|JEO
+30126|JEO|348|Sedimenter Kayaç Petrografisi|Kürşad Kadir Eriş|Final Sınavı|Ayazağa/Maden Binası-A204|Pazartesi|15:00-17:00|18 Ağustos 2025|JEO
+30127|JEO|204E|Petrog. of Magmatic Rocks|Şafak Altunkaynak|Final Sınavı|Ayazağa/Maden Binası-A203|Salı|09:00-11:00|19 Ağustos 2025|JEO
+30129|MAT|271E|Probability and Statistics|Halil Bayraktar|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D101|Cuma|15:00-17:00|22 Ağustos 2025|MAT
+30132|BIO|301E|Fundamentals of Biology|Ece Polat|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D102, Ayazağa/Fen-Edebiyat Binası-D304|Çarşamba|15:00-17:00|20 Ağustos 2025|BIO
+30146|FIZ|101E|Physics I|Abdurrahman Savaş Arapoğlu|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A11, Ayazağa/Merkezi Derslik Binası-A12|Pazartesi|09:00-11:00|18 Ağustos 2025|FIZ
+30147|FIZ|101E|Physics I|Abdurrahman Savaş Arapoğlu|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A13, Ayazağa/Merkezi Derslik Binası-A14, Ayazağa/Merkezi Derslik Binası-A15, Ayazağa/Merkezi Derslik Binası-A16|Pazartesi|09:00-11:00|18 Ağustos 2025|FIZ
+30149|FIZ|101E|Physics I|Mehmet Cem Güçlü|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A31, Ayazağa/Merkezi Derslik Binası-A32, Ayazağa/Merkezi Derslik Binası-A33|Pazartesi|09:00-11:00|18 Ağustos 2025|FIZ
+30150|FIZ|101E|Physics I|Mehmet Cem Güçlü|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A34, Ayazağa/Merkezi Derslik Binası-A35, Ayazağa/Merkezi Derslik Binası-A36|Pazartesi|09:00-11:00|18 Ağustos 2025|FIZ
+30151|FIZ|102E|Physics II|Nurcan Doğan Bingölbali|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A11, Ayazağa/Merkezi Derslik Binası-A12|Pazartesi|15:00-17:00|18 Ağustos 2025|FIZ
+30152|FIZ|102E|Physics II|Nurcan Doğan Bingölbali|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A13, Ayazağa/Merkezi Derslik Binası-A14, Ayazağa/Merkezi Derslik Binası-A15, Ayazağa/Merkezi Derslik Binası-A16|Pazartesi|15:00-17:00|18 Ağustos 2025|FIZ
+30153|FIZ|102E|Physics II|Oğuzhan Gürlü|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A31, Ayazağa/Merkezi Derslik Binası-A32|Pazartesi|15:00-17:00|18 Ağustos 2025|FIZ
+30154|FIZ|102E|Physics II|Oğuzhan Gürlü|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A33, Ayazağa/Merkezi Derslik Binası-A34, Ayazağa/Merkezi Derslik Binası-A35|Pazartesi|15:00-17:00|18 Ağustos 2025|FIZ
+30156|FIZ|102E|Physics II|Ali Gelir|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D101, Ayazağa/Fen-Edebiyat Binası-D102|Pazartesi|15:00-17:00|18 Ağustos 2025|FIZ
+30158|FIZ|102E|Physics II|Ali Gelir|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D103, Ayazağa/Fen-Edebiyat Binası-D104, Ayazağa/Fen-Edebiyat Binası-D105, Ayazağa/Fen-Edebiyat Binası-D106|Pazartesi|15:00-17:00|18 Ağustos 2025|FIZ
+30160|FIZ|102E|Physics II|Yakup Hundur|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D201, Ayazağa/Fen-Edebiyat Binası-D202|Pazartesi|15:00-17:00|18 Ağustos 2025|FIZ
+30161|FIZ|102E|Physics II|Yakup Hundur|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D203, Ayazağa/Fen-Edebiyat Binası-D204, Ayazağa/Fen-Edebiyat Binası-D205|Pazartesi|15:00-17:00|18 Ağustos 2025|FIZ
+30163|FIZ|201E|Modern Physics|Mehmet Murat Sunar|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D102|Perşembe|15:00-17:00|21 Ağustos 2025|FIZ
+30177|GEO|308|Taşınmaz Değerlemesi|Reha Metin Alkan|Final Sınavı|Ayazağa/İnşaat Binası-B305|Salı|15:00-17:00|19 Ağustos 2025|GEO
+30178|GEO|476|Geo. Müh. Proje Planlama Yön.|Reha Metin Alkan|Final Sınavı|Ayazağa/İnşaat Binası-B305|Perşembe|12:00-14:00|21 Ağustos 2025|GEO
+30179|GEO|212E|Engineering Surveying|Mehmet İşiler|Final Sınavı|Ayazağa/İnşaat Binası-B101, Ayazağa/İnşaat Binası-B103|Perşembe|09:00-11:00|21 Ağustos 2025|GEO
+30180|GEM|445|Gemi Boru Donanımları|Osman Azmi Özsoysal|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10, Ayazağa/Merkezi Derslik C Binası-2D18|Pazartesi|09:00-11:00|18 Ağustos 2025|GEM
+30181|GEO|225E|Prob.and Stat. for Geom. Eng.|Mehmet İşiler|Final Sınavı|Ayazağa/İnşaat Binası-B101|Pazartesi|12:00-14:00|18 Ağustos 2025|GEO
+30182|GEO|322E|Land Management|Mehmet İşiler|Final Sınavı|Ayazağa/İnşaat Binası-A103|Cuma|09:00-11:00|22 Ağustos 2025|GEO
+30189|ATA|121|Atatürk İlk & İnkılap Trh I|Çağdaş Taylan Salın|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A11|Perşembe|09:00-11:00|21 Ağustos 2025|ATA
+30190|ATA|121|Atatürk İlk & İnkılap Trh I|Çağdaş Taylan Salın|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A12, Ayazağa/Merkezi Derslik Binası-A13|Perşembe|09:00-11:00|21 Ağustos 2025|ATA
+30191|ATA|122|Atatürk İlk & İnkılap Trh II|Çağdaş Taylan Salın|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A11, Ayazağa/Merkezi Derslik Binası-A12|Perşembe|15:00-17:00|21 Ağustos 2025|ATA
+30192|ATA|122|Atatürk İlk & İnkılap Trh II|Çağdaş Taylan Salın|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A13, Ayazağa/Merkezi Derslik Binası-A14|Perşembe|15:00-17:00|21 Ağustos 2025|ATA
+30193|ATA|121|Atatürk İlk & İnkılap Trh I|Pelin Helvacı|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A14, Ayazağa/Merkezi Derslik Binası-A15|Perşembe|09:00-11:00|21 Ağustos 2025|ATA
+30194|ATA|122|Atatürk İlk & İnkılap Trh II|Pelin Helvacı|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A15, Ayazağa/Merkezi Derslik Binası-A16|Perşembe|15:00-17:00|21 Ağustos 2025|ATA
+30195|MAT|271E|Probability and Statistics|Mustafa Sait Yazgan|Final Sınavı|Ayazağa/İnşaat Binası-B104, Ayazağa/İnşaat Binası-D202|Cuma|15:00-17:00|22 Ağustos 2025|MAT
+30196|MAT|271E|Probability and Statistics|Mustafa Sait Yazgan|Final Sınavı|Ayazağa/İnşaat Binası-A104, Ayazağa/İnşaat Binası-A204|Cuma|15:00-17:00|22 Ağustos 2025|MAT
+30197|MAT|271E|Probability and Statistics|Mustafa Sait Yazgan|Final Sınavı|Ayazağa/İnşaat Binası-A102, Ayazağa/İnşaat Binası-D203|Cuma|15:00-17:00|22 Ağustos 2025|MAT
+30198|DEN|325E|Adv. Manufacturing Process|Necip Ünlü|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10|Salı|12:00-14:00|19 Ağustos 2025|DEN
+30214|CHZ|318|Endüstriyel Hammaddeler|Murat Olgaç Kangal|Final Sınavı|Ayazağa/Maden Binası-A203|Perşembe|15:00-17:00|21 Ağustos 2025|CHZ
+30215|TER|201|Termodinamik|Birgül Benli|Final Sınavı|Ayazağa/Maden Binası-A203|Salı|15:00-17:00|19 Ağustos 2025|TER
+30216|MAT|202|Sayısal Yöntemler|Birgül Benli|Final Sınavı|Ayazağa/Maden Binası-A102|Cuma|09:00-11:00|22 Ağustos 2025|MAT
+30217|CHZ|306|Cevher Haz.Akışkanlar Mek.|Birgül Benli|Final Sınavı|Ayazağa/Maden Binası-A203|Çarşamba|15:00-17:00|20 Ağustos 2025|CHZ
+30218|BIL|112E|Intr.to Prog.Language(FORTRAN)|Doğa Doğan|Final Sınavı|Ayazağa/Maden Binası-315|Salı|12:00-14:00|19 Ağustos 2025|BIL
+30239|IKZ|599|Dönem Projesi|Ayşe Elvan Bayraktaroğlu|Final Sınavı|İlgili Bölümce Açıklanacak|Pazartesi|09:00-11:00|18 Ağustos 2025|IKZ
+30261|CEV|302E|Biological Processes|Rüya Taşlı|Final Sınavı|Ayazağa/İnşaat Binası-A102|Perşembe|15:00-17:00|21 Ağustos 2025|CEV
+30264|CEV|347E|Unit Operations|Rüya Taşlı|Final Sınavı|Ayazağa/İnşaat Binası-A101|Salı|15:00-17:00|19 Ağustos 2025|CEV
+30265|EEF|211|Elektrik Devre Temelleri|Metin Hüner|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-2102, Ayazağa/Elektrik-Elektronik Binası-2104, Ayazağa/Elektrik-Elektronik Binası-2106|Pazartesi|12:00-14:00|18 Ağustos 2025|EEF
+30266|EEF|211E|Basics of Electrical Circuits|Bilgi Görkem Yazgaç|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-5101, Ayazağa/Elektrik-Elektronik Binası-5102, Ayazağa/Elektrik-Elektronik Binası-5103|Pazartesi|12:00-14:00|18 Ağustos 2025|EEF
+30267|EEF|232E|Circuit and System Analysis|Bilgi Görkem Yazgaç|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-2102, Ayazağa/Elektrik-Elektronik Binası-2104, Ayazağa/Elektrik-Elektronik Binası-2106|Cuma|15:00-17:00|22 Ağustos 2025|EEF
+30268|EEF|212E|Electromagnetic Theory I|Kamil Karaçuha|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-2102, Ayazağa/Elektrik-Elektronik Binası-2104, Ayazağa/Elektrik-Elektronik Binası-2106|Perşembe|12:00-14:00|21 Ağustos 2025|EEF
+30269|EHB|335E|Analog Electronic Circuits|Mustafa Berke Yelten|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-4102, Ayazağa/Elektrik-Elektronik Binası-6309|Çarşamba|15:00-17:00|20 Ağustos 2025|EHB
+30270|EHB|222E|Introduction to Electronics|Muhammet Tahir Güneşer|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-4102, Ayazağa/Elektrik-Elektronik Binası-6309|Cuma|09:00-11:00|22 Ağustos 2025|EHB
+30271|UZB|318E|Finite Element Method|Vedat Ziya Doğan|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10, Ayazağa/Merkezi Derslik C Binası-2D18|Cuma|09:00-11:00|22 Ağustos 2025|UZB
+30272|EKO|201E|Economics|Sinan Çakır|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Perşembe|12:00-14:00|21 Ağustos 2025|EKO
+30274|GMI|341E|Automatic Control Systems|Tayfun Uyanık|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Perşembe|15:00-17:00|21 Ağustos 2025|GMI
+30275|GMI|457E|Marine Electrotechnics|Tayfun Uyanık|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Perşembe|09:00-11:00|21 Ağustos 2025|GMI
+30276|GMI|462E|Oper.of Steam&Gas Turbines|Yalçın Durmuşoğlu|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Cuma|15:00-17:00|22 Ağustos 2025|GMI
+30277|GMI|473E|Marine Diesel Engines III|Yalçın Durmuşoğlu|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Pazartesi|15:00-17:00|18 Ağustos 2025|GMI
+30278|GMI|481E|Marine Insurance|Sinan Çakır|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Cuma|09:00-11:00|22 Ağustos 2025|GMI
+30279|GMI|486E|Shipping Finance|Sinan Çakır|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Salı|09:00-11:00|19 Ağustos 2025|GMI
+30280|DUI|103E|Seamanship|Orhan Gönel|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Cuma|09:00-11:00|22 Ağustos 2025|DUI
+30281|DUI|472|Oşinografi|Ayşe Nak|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Perşembe|09:00-11:00|21 Ağustos 2025|DUI
+30282|DFH|278E|Maritime Economics|Sinan Çakır|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Çarşamba|09:00-11:00|20 Ağustos 2025|DFH
+30283|DUI|407E|Cargo Handl and Stowage|Cenk Ay|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Salı|09:00-11:00|19 Ağustos 2025|DUI
+30285|DUI|311E|Celestial Navigation|Orhan Gönel|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Perşembe|15:00-17:00|21 Ağustos 2025|DUI
+30286|DUI|305E|Ship Hndl.and Manouvering|Cenk Ay|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Çarşamba|15:00-17:00|20 Ağustos 2025|DUI
+30288|ICM|366E|Interior Arch.Desgn Studio III|Ethem Gürer|Final Sınavı|Taşkışla/Mimarlık Binası-302|Pazartesi|09:00-11:00|18 Ağustos 2025|ICM
+30289|ICM|449E|Interior Arch.Desgn Studio IV|Ethem Gürer|Final Sınavı|Taşkışla/Mimarlık Binası-313|Salı|09:00-11:00|19 Ağustos 2025|ICM
+30290|CAB|244|Yrd.Çalgı Piyano IV|Alper Rumelioğlu|Final Sınavı|Maçka/Konservatuvar Binası-İlgili Bölümce Açıklanacak|Pazar|13:00-14:00|17 Ağustos 2025|CAB
+30291|CAB|243|Yrd.Çalgı Piyano III|Alper Rumelioğlu|Final Sınavı|Maçka/Konservatuvar Binası-İlgili Bölümce Açıklanacak|Pazar|14:30-15:20|17 Ağustos 2025|CAB
+30292|CAB|344|Yrd.Çalgı Piyano VI|Alper Rumelioğlu|Final Sınavı|Maçka/Konservatuvar Binası-İlgili Bölümce Açıklanacak|Pazar|15:40-16:30|17 Ağustos 2025|CAB
+30294|MUZ|357|İleri Osmanlıca I|Gözde Çolakoğlu Sarı|Final Sınavı|Maçka/Konservatuvar Binası-İlgili Bölümce Açıklanacak|Pazartesi|09:30-11:30|18 Ağustos 2025|MUZ
+30304|FIZ|101|Fizik I|Haluk Özbek|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D102|Pazartesi|09:00-11:00|18 Ağustos 2025|FIZ
+30305|FIZ|101|Fizik I|Haluk Özbek|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D104|Pazartesi|09:00-11:00|18 Ağustos 2025|FIZ
+30306|JEO|222|Jeomekanik|Yılmaz Mahmutoğlu|Final Sınavı|Ayazağa/Maden Binası-A203|Pazartesi|09:00-11:00|18 Ağustos 2025|JEO
+30307|BLG|222E|Computer Organization|Kadir Özlem|Final Sınavı|Ayazağa/Bilgisayar ve Bilişim Binası-104|Salı|09:00-11:00|19 Ağustos 2025|BLG
+30308|BLG|312E|Computer Operating Systems|Nizamettin Aydın|Final Sınavı|Ayazağa/Bilgisayar ve Bilişim Binası-123|Cuma|09:00-11:00|22 Ağustos 2025|BLG
+30309|BLG|322E|Computer Architecture|Nizamettin Aydın|Final Sınavı|Ayazağa/Bilgisayar ve Bilişim Binası-İlgili Bölümce Açıklanacak|Çarşamba|09:00-11:00|20 Ağustos 2025|BLG
+30310|BLG|223E|Data Structures|Yusuf Hüseyin Şahin|Final Sınavı|Ayazağa/Bilgisayar ve Bilişim Binası-İlgili Bölümce Açıklanacak|Perşembe|12:00-14:00|21 Ağustos 2025|BLG
+30311|INS|217|Mukavemet I|Teoman Özer|Final Sınavı|Ayazağa/İnşaat Binası-A105|Cuma|09:00-11:00|22 Ağustos 2025|INS
+30312|INS|218|Mukavemet II|Teoman Özer|Final Sınavı|Ayazağa/İnşaat Binası-A105|Cuma|15:00-17:00|22 Ağustos 2025|INS
+30313|INS|360E|Hydraulics|Erdal Kesgin|Final Sınavı|Ayazağa/İnşaat Binası-A105|Salı|12:00-14:00|19 Ağustos 2025|INS
+30314|AKM|204E|Fluid Mechanics|Erdal Kesgin|Final Sınavı|Ayazağa/İnşaat Binası-A102|Çarşamba|09:00-11:00|20 Ağustos 2025|AKM
+30315|INS|354|Hidroloji|Yavuz Selim Güçlü|Final Sınavı|Ayazağa/İnşaat Binası-B305|Cuma|09:00-11:00|22 Ağustos 2025|INS
+30317|DNK|201E|Dynamics|Ünal Aldemir|Final Sınavı|Ayazağa/İnşaat Binası-B101, Ayazağa/İnşaat Binası-B103|Salı|09:00-11:00|19 Ağustos 2025|DNK
+30318|UCK|421|Tepki ile Tahrik|Cemil Kurtcebe|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10|Cuma|15:00-17:00|22 Ağustos 2025|UCK
+30319|UZB|314E|Heat Transfer|Cemil Kurtcebe|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10, Ayazağa/Merkezi Derslik C Binası-2D18|Pazartesi|15:00-17:00|18 Ağustos 2025|UZB
+30320|MUK|211|Mukavemet|Tahir Soyugüzel|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-3D20|Pazartesi|12:00-14:00|18 Ağustos 2025|MUK
+30321|MUK|211E|Strength of Materials|Tahir Soyugüzel|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10, Ayazağa/Merkezi Derslik C Binası-2D18|Pazartesi|12:00-14:00|18 Ağustos 2025|MUK
+30323|GEO|314E|Geodesy II and Projections|Serdar Erol|Final Sınavı|Ayazağa/İnşaat Binası-A1|Pazartesi|09:00-11:00|18 Ağustos 2025|GEO
+30324|GEO|203E|Coordinate Sys. and Geodesy I|Serdar Erol|Final Sınavı|Ayazağa/İnşaat Binası-B305|Çarşamba|12:00-14:00|20 Ağustos 2025|GEO
+30325|DUI|251E|Meteorology|Ayşe Nak|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Perşembe|15:00-17:00|21 Ağustos 2025|DUI
+30326|YZV|104E|Int.toPrg.forDataSci.(Python)|Cihan Topal|Final Sınavı|Ayazağa/Bilgisayar ve Bilişim Binası-121|Çarşamba|12:00-14:00|20 Ağustos 2025|YZV
+30327|JEO|406E|Fossil Fuels Geology|Sedat İnan|Final Sınavı|Ayazağa/Maden Binası-A203|Pazartesi|15:00-17:00|18 Ağustos 2025|JEO
+30328|YZV|201E|Data Structures|Berna Kiraz|Final Sınavı|Ayazağa/Bilgisayar ve Bilişim Binası-121|Pazartesi|09:00-11:00|18 Ağustos 2025|YZV
+30329|EKO|201E|Economics|Ayşegül Kayaoğlu Yılmaz|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A11, Ayazağa/Merkezi Derslik Binası-A12, Ayazağa/Merkezi Derslik Binası-A13, Ayazağa/Merkezi Derslik Binası-A14, Ayazağa/Merkezi Derslik Binası-A15, Ayazağa/Merkezi Derslik Binası-A16|Perşembe|12:00-14:00|21 Ağustos 2025|EKO
+30332|INS|232E|Surveying|Mert Bezcioğlu|Final Sınavı|Ayazağa/İnşaat Binası-B101|Pazar|12:00-14:00|17 Ağustos 2025|INS
+30333|ATA|121|Atatürk İlk & İnkılap Trh I|Ebubekir Ceylan|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A16|Perşembe|09:00-11:00|21 Ağustos 2025|ATA
+30334|GEO|216E|Computer Aided Map Design|Mehmet Ufuk Özerman|Final Sınavı|Ayazağa/İnşaat Binası-B305|Pazartesi|12:00-14:00|18 Ağustos 2025|GEO
+30337|INS|360|Hidrolik|Necati Erdem Ünal|Final Sınavı|Ayazağa/İnşaat Binası-A104|Salı|12:00-14:00|19 Ağustos 2025|INS
+30338|INS|360|Hidrolik|Necati Erdem Ünal|Final Sınavı|Ayazağa/İnşaat Binası-A204|Salı|12:00-14:00|19 Ağustos 2025|INS
+30339|AKM|204|Akışkanlar Mekaniği|Necati Erdem Ünal|Final Sınavı|Ayazağa/İnşaat Binası-B103|Çarşamba|09:00-11:00|20 Ağustos 2025|AKM
+30340|AKM|204|Akışkanlar Mekaniği|Necati Erdem Ünal|Final Sınavı|Ayazağa/İnşaat Binası-B101|Çarşamba|09:00-11:00|20 Ağustos 2025|AKM
+30341|ELK|343|Elektromekanik Enerji Dönüşümü|Murat İmeryüz|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-2102|Pazartesi|09:00-11:00|18 Ağustos 2025|ELK
+30342|MAT|210E|Engineering Mathematics|Kürşat Hasözdemir|Final Sınavı|Ayazağa/Maden Binası-A102, Ayazağa/Maden Binası-A103|Perşembe|09:00-11:00|21 Ağustos 2025|MAT
+30343|GEO|220E|Mathematics for Geomatics Eng.|Mehmet Ufuk Özerman|Final Sınavı|Ayazağa/İnşaat Binası-B101, Ayazağa/İnşaat Binası-B103|Çarşamba|15:00-17:00|20 Ağustos 2025|GEO
+30344|ITB|207|Osmanlı Tarihi|Cüneyd Okay|Final Sınavı|Taşkışla/Mimarlık Binası-106|Cuma|15:00-17:00|22 Ağustos 2025|ITB
+30345|ITB|207|Osmanlı Tarihi|Cüneyd Okay|Final Sınavı|Taşkışla/Mimarlık Binası-107|Cuma|15:00-17:00|22 Ağustos 2025|ITB
+30346|ITB|218|Bilim ve Teknoloji Tarihi|Aytekin Çökelez|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D202|Çarşamba|09:00-11:00|20 Ağustos 2025|ITB
+30347|ITB|218|Bilim ve Teknoloji Tarihi|Aytekin Çökelez|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D203|Çarşamba|09:00-11:00|20 Ağustos 2025|ITB
+30348|ITB|218|Bilim ve Teknoloji Tarihi|Aytekin Çökelez|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D104|Çarşamba|09:00-11:00|20 Ağustos 2025|ITB
+30349|ITB|218|Bilim ve Teknoloji Tarihi|Aytekin Çökelez|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D204|Çarşamba|09:00-11:00|20 Ağustos 2025|ITB
+30350|ITB|218|Bilim ve Teknoloji Tarihi|Aytekin Çökelez|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D102|Çarşamba|09:00-11:00|20 Ağustos 2025|ITB
+30351|ITB|222E|City and Society|Çiğdem Özkan Aygün|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A13|Çarşamba|12:00-14:00|20 Ağustos 2025|ITB
+30352|ITB|222E|City and Society|Çiğdem Özkan Aygün|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A14|Çarşamba|12:00-14:00|20 Ağustos 2025|ITB
+30353|ITB|222|Kent ve Toplum|Çiğdem Özkan Aygün|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A12|Çarşamba|12:00-14:00|20 Ağustos 2025|ITB
+30354|GEO|103E|Fundamentals of Surveying|Mert Bezcioğlu|Final Sınavı|Ayazağa/İnşaat Binası-B305|Pazar|15:00-17:00|17 Ağustos 2025|GEO
+30355|MAD|446E|Computer Aided Mine Design|Kürşat Hasözdemir|Final Sınavı|Ayazağa/Maden Binası-A203|Salı|12:00-14:00|19 Ağustos 2025|MAD
+30356|GEM|325|Gemi Yapı Elemanları|İsmail Bayer|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10, Ayazağa/Merkezi Derslik C Binası-2D18|Çarşamba|15:00-17:00|20 Ağustos 2025|GEM
+30357|MUK|203|Mukavemet I|Oktay Eren Türeyen|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-3D20|Perşembe|15:00-17:00|21 Ağustos 2025|MUK
+30358|MUK|204|Mukavemet II|Oktay Eren Türeyen|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10|Perşembe|12:00-14:00|21 Ağustos 2025|MUK
+30359|DEN|339|Deniz Kirliliği|Oktay Eren Türeyen|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-3D20|Cuma|09:00-11:00|22 Ağustos 2025|DEN
+30361|TER|201|Termodinamik|Halil Saraçoğlu|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-2D18|Salı|15:00-17:00|19 Ağustos 2025|TER
+30363|TER|201E|Thermodynamics|Halil Saraçoğlu|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D10|Salı|15:00-17:00|19 Ağustos 2025|TER
+30364|KIM|101|Genel Kimya I|Muhammet Übeydullah Kahveci|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A32|Pazar|09:00-11:00|17 Ağustos 2025|KIM
+30365|KIM|101E|General Chemistry I|Muhammet Übeydullah Kahveci|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A33|Pazar|09:00-11:00|17 Ağustos 2025|KIM
+30367|SNT|103|Desen|Mehmet Güler|Final Sınavı|Taşkışla/Mimarlık Binası-213|Pazartesi|12:00-14:00|18 Ağustos 2025|SNT
+30368|SNT|103|Desen|Mehmet Güler|Final Sınavı|Taşkışla/Mimarlık Binası-106|Pazartesi|12:00-14:00|18 Ağustos 2025|SNT
+30369|SNT|103|Desen|Ceylan Pınar Genç|Final Sınavı|Taşkışla/Mimarlık Binası-216|Pazartesi|12:00-14:00|18 Ağustos 2025|SNT
+30370|SNT|103|Desen|Ceylan Pınar Genç|Final Sınavı|Taşkışla/Mimarlık Binası-107|Pazartesi|12:00-14:00|18 Ağustos 2025|SNT
+30371|SNT|104|Mitoloji ve Sanat|Yasemin Dora|Final Sınavı|Ayazağa/Merkezi Derslik Binası-B35|Cuma|15:00-17:00|22 Ağustos 2025|SNT
+30372|SNT|105E|Film Art|Kağan Demirdöven|Final Sınavı|Ayazağa/Maden Binası-A101|Pazartesi|09:00-11:00|18 Ağustos 2025|SNT
+30373|SNT|106|Geleneks. Türk El Sanatları|Ayşe Yivlik Neftçi|Final Sınavı|Taşkışla/Mimarlık Binası-213|Cuma|09:00-11:00|22 Ağustos 2025|SNT
+30374|SNT|107|İlkçağ Anadolu Uygarlıkları|Ayşe Yivlik Neftçi|Final Sınavı|Taşkışla/Mimarlık Binası-106|Çarşamba|09:00-11:00|20 Ağustos 2025|SNT
+30375|SNT|112|Tiyatro|Yeliz Şatıroğlu|Final Sınavı|Ayazağa/Merkezi Derslik Binası-B35|Pazartesi|12:00-14:00|18 Ağustos 2025|SNT
+30376|SNT|112|Tiyatro|Yeliz Şatıroğlu|Final Sınavı|Ayazağa/Merkezi Derslik Binası-B36|Pazartesi|12:00-14:00|18 Ağustos 2025|SNT
+30377|SNT|113|Sanat ve Yorum|Ferhan Gözgü|Final Sınavı|Taşkışla/Mimarlık Binası-106|Cuma|09:00-11:00|22 Ağustos 2025|SNT
+30378|SNT|113|Sanat ve Yorum|Ferhan Gözgü|Final Sınavı|Taşkışla/Mimarlık Binası-216|Cuma|09:00-11:00|22 Ağustos 2025|SNT
+30379|SNT|114E|Contemporary Art|Şafak Tuba Çatalbaş Miharbi|Final Sınavı|Taşkışla/Mimarlık Binası-107|Cuma|09:00-11:00|22 Ağustos 2025|SNT
+30380|SNT|115|Modernite ve Görsel Kültür|Yasemin Dora|Final Sınavı|Ayazağa/Merkezi Derslik Binası-B35|Perşembe|09:00-11:00|21 Ağustos 2025|SNT
+30381|SNT|211|İstanbul:Tarih,Sanat ve Toplum|Çiğdem Özkan Aygün|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A13|Pazar|12:00-14:00|17 Ağustos 2025|SNT
+30382|SNT|211E|Istanbul:Hist.,Art and Society|Çiğdem Özkan Aygün|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A12|Pazar|12:00-14:00|17 Ağustos 2025|SNT
+30383|SNT|211E|Istanbul:Hist.,Art and Society|Pınar Erkan Bursa|Final Sınavı|Gümüşsuyu/Makina Binası-A101|Pazar|12:00-14:00|17 Ağustos 2025|SNT
+30384|GEO|109E|Analy. Geom. and Vect. Algeb.|Mert Bezcioğlu|Final Sınavı|Ayazağa/İnşaat Binası-A101|Pazar|09:00-11:00|17 Ağustos 2025|GEO
+30385|GMI|301E|Maritime Law|Nuri Koray Kurun|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Salı|09:00-11:00|19 Ağustos 2025|GMI
+30386|GMI|352E|Heat Transfer|Yalçın Durmuşoğlu|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Salı|15:00-17:00|19 Ağustos 2025|GMI
+30387|GMI|471E|Refrigeration and HVAC Systems|Yasin Arslanoğlu|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Cuma|09:00-11:00|22 Ağustos 2025|GMI
+30388|MAT|210E|Engineering Mathematics|Bayram Barış Kızılsaç|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Perşembe|09:00-11:00|21 Ağustos 2025|MAT
+30389|UUM|536|Kısmi Diferansiyel Denklemler|İbrahim Özkol|Final Sınavı|İlgili Bölümce Açıklanacak|Çarşamba|09:00-11:00|20 Ağustos 2025|UUM
+30390|ITB|214E|The Modern Middle East|Umut Uzer|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D304|Çarşamba|09:00-11:00|20 Ağustos 2025|ITB
+30391|ITB|214E|The Modern Middle East|Umut Uzer|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D103|Çarşamba|09:00-11:00|20 Ağustos 2025|ITB
+30392|JEO|473|Mühendislik Jeolojisi|Yılmaz Mahmutoğlu|Final Sınavı|Ayazağa/Maden Binası-A204|Çarşamba|15:00-17:00|20 Ağustos 2025|JEO
+30393|EEF|262E|Fundamentals of Electronics|Mustafa Altun|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-2102, Ayazağa/Elektrik-Elektronik Binası-2104, Ayazağa/Elektrik-Elektronik Binası-2106|Cuma|09:00-11:00|22 Ağustos 2025|EEF
+30394|JEO|411E|Tectonics|Şule Gürboğa|Final Sınavı|Ayazağa/Maden Binası-A203|Cuma|15:00-17:00|22 Ağustos 2025|JEO
+30395|MAK|205|Mukavemet I|Adil Yücel|Final Sınavı|Gümüşsuyu/Makina Binası-A101, Gümüşsuyu/Makina Binası-A201|Salı|12:00-14:00|19 Ağustos 2025|MAK
+30396|MAK|219|Mukavemet I|Adil Yücel|Final Sınavı|Gümüşsuyu/Makina Binası-A363|Salı|12:00-14:00|19 Ağustos 2025|MAK
+30397|MAK|206|Mukavemet II|Adil Yücel|Final Sınavı|Gümüşsuyu/Makina Binası-D318|Pazar|12:00-14:00|17 Ağustos 2025|MAK
+30398|MAK|220|Mukavemet II|Adil Yücel|Final Sınavı|Gümüşsuyu/Makina Binası-D317|Pazar|12:00-14:00|17 Ağustos 2025|MAK
+30399|MEK|205E|Engineering Mechanics|Hacı Abdullah Taşdemir|Final Sınavı|Gümüşsuyu/Makina Binası-A101|Cuma|09:00-11:00|22 Ağustos 2025|MEK
+30400|MEK|205|Mühendislik Mekaniği|Hacı Abdullah Taşdemir|Final Sınavı|Gümüşsuyu/Makina Binası-D359|Cuma|09:00-11:00|22 Ağustos 2025|MEK
+30401|MAK|228|Akışkanlar Mekaniği I|Sertaç Çadırcı|Final Sınavı|Gümüşsuyu/Makina Binası-A501, Gümüşsuyu/Makina Binası-D318|Salı|12:00-14:00|19 Ağustos 2025|MAK
+30402|MAK|234|Akışkanlar Mekaniği I|Sertaç Çadırcı|Final Sınavı|Gümüşsuyu/Makina Binası-D317|Salı|12:00-14:00|19 Ağustos 2025|MAK
+30403|MAK|229|Akışkanlar Mekaniği II|Hasan Güneş|Final Sınavı|Gümüşsuyu/Makina Binası-D317|Pazartesi|15:00-17:00|18 Ağustos 2025|MAK
+30405|MAK|215|Termodinamik I|Bayram Şahin|Final Sınavı|Gümüşsuyu/Makina Binası-A201|Perşembe|15:00-17:00|21 Ağustos 2025|MAK
+30406|MAK|231|Termodinamik I|Bayram Şahin|Final Sınavı|Gümüşsuyu/Makina Binası-A501|Perşembe|15:00-17:00|21 Ağustos 2025|MAK
+30407|MAK|313|Isı Geçişi|Ersin Sayar|Final Sınavı|Gümüşsuyu/Makina Binası-D318|Salı|15:00-17:00|19 Ağustos 2025|MAK
+30409|CIE|439|Transportation Systems|Kemal Selçuk Öğüt|Final Sınavı|Ayazağa/İnşaat Binası-A1|Pazartesi|15:00-17:00|18 Ağustos 2025|CIE
+30411|ELK|322E|Power Transmission Systems|Mustafa Bağrıyanık|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-4102|Salı|15:00-17:00|19 Ağustos 2025|ELK
+30412|EEF|206E|Signal Processing&Linear Syst.|Mehmet Can|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-2102, Ayazağa/Elektrik-Elektronik Binası-2104, Ayazağa/Elektrik-Elektronik Binası-2106|Salı|12:00-14:00|19 Ağustos 2025|EEF
+30413|TUR|121|Türk Dili I|Ömer Tacir|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A31|Salı|15:00-17:00|19 Ağustos 2025|TUR
+30414|TUR|122|Türk Dili II|Ömer Tacir|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A31|Salı|09:00-11:00|19 Ağustos 2025|TUR
+30415|TUR|122|Türk Dili II|Ömer Tacir|Final Sınavı|Ayazağa/Merkezi Derslik Binası-A32|Salı|09:00-11:00|19 Ağustos 2025|TUR
+30416|LEE|904E|Directed Studies|Birgül Benli|Final Sınavı|Ayazağa/Maden Binası-İlgili Bölümce Açıklanacak|Pazartesi|09:00-11:00|18 Ağustos 2025|LEE
+30417|MUK|204E|Strength of Materials II|Oktay Eren Türeyen|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-1D3|Perşembe|12:00-14:00|21 Ağustos 2025|MUK
+30418|GMI|132E|Numerical Analy. of Eng.Syst.|Ata Bilgili|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Çarşamba|12:00-14:00|20 Ağustos 2025|GMI
+30420|INS|302E|Highway Engineering|Kemal Selçuk Öğüt|Final Sınavı|Ayazağa/İnşaat Binası-A101|Pazartesi|09:00-11:00|18 Ağustos 2025|INS
+30422|DEN|340E|Hydrostatics of Marine Vehic.|Erdem Üçer|Final Sınavı|Ayazağa/Merkezi Derslik C Binası-ZA1|Çarşamba|12:00-14:00|20 Ağustos 2025|DEN
+30424|ITB|203|Sosyoloji|Nurullah Ardıç|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D103|Cuma|09:00-11:00|22 Ağustos 2025|ITB
+30425|INS|354E|Hydrology|Yavuz Selim Güçlü|Final Sınavı|Ayazağa/İnşaat Binası-A101|Cuma|09:00-11:00|22 Ağustos 2025|INS
+30426|CIE|344|Hydraulics and Hydrology|Yavuz Selim Güçlü|Final Sınavı|Ayazağa/İnşaat Binası-A1|Perşembe|09:00-11:00|21 Ağustos 2025|CIE
+30427|DUI|213E|Ship Constrct.and Stability|Emre Kahramanoğlu|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Cuma|09:00-11:00|22 Ağustos 2025|DUI
+30428|DUI|208E|Cargo&Crew Safety|Cenk Ay|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Salı|15:00-17:00|19 Ağustos 2025|DUI
+30432|BLG|252E|Object Oriented Programming|Yusuf Hüseyin Şahin|Final Sınavı|Ayazağa/Bilgisayar ve Bilişim Binası-İlgili Bölümce Açıklanacak|Cuma|15:00-17:00|22 Ağustos 2025|BLG
+30434|MAK|226|Termodinamik II|Ersin Sayar|Final Sınavı|Gümüşsuyu/Makina Binası-A501, Gümüşsuyu/Makina Binası-D318|Pazartesi|09:00-11:00|18 Ağustos 2025|MAK
+30435|MAK|232|Termodinamik II|Ersin Sayar|Final Sınavı|Gümüşsuyu/Makina Binası-D331|Pazartesi|09:00-11:00|18 Ağustos 2025|MAK
+30436|MAK|324|Makina Teorisi|Osman Taha Şen|Final Sınavı|Gümüşsuyu/Makina Binası-A363|Pazartesi|12:00-14:00|18 Ağustos 2025|MAK
+30438|MAK|315|Mekanik Titreşimler|Akif Yavuz|Final Sınavı|Gümüşsuyu/Makina Binası-A501, Gümüşsuyu/Makina Binası-D318|Perşembe|09:00-11:00|21 Ağustos 2025|MAK
+30440|MAK|213|Malzeme Bilimi|Raşid Ahmed Yıldız|Final Sınavı|Gümüşsuyu/Makina Binası-D318|Çarşamba|09:00-11:00|20 Ağustos 2025|MAK
+30441|MAK|223|Malzeme Bilimi|Raşid Ahmed Yıldız|Final Sınavı|Gümüşsuyu/Makina Binası-D450|Çarşamba|09:00-11:00|20 Ağustos 2025|MAK
+30442|MAK|339|Makina Elemanları I|Ali İmre Aydeniz|Final Sınavı|Gümüşsuyu/Makina Binası-A501|Çarşamba|12:00-14:00|20 Ağustos 2025|MAK
+30445|FIZ|101E|Physics I|Sevtap Yıldız Özbek|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D103|Pazartesi|09:00-11:00|18 Ağustos 2025|FIZ
+30447|INS|360E|Hydraulics|Mehmet Melih Koşucu|Final Sınavı|Ayazağa/İnşaat Binası-A102|Salı|12:00-14:00|19 Ağustos 2025|INS
+30449|DFH|282E|Fluid Mechanics|Pelin Bolat|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Salı|12:00-14:00|19 Ağustos 2025|DFH
+30450|INS|218E|Strength of Materials II|Sedat Kömürcü|Final Sınavı|Ayazağa/İnşaat Binası-B101, Ayazağa/İnşaat Binası-B103|Cuma|15:00-17:00|22 Ağustos 2025|INS
+30452|MAK|210E|Engineering Mathematics|Hakan Öksüzoğlu|Final Sınavı|Gümüşsuyu/Makina Binası-D318|Salı|09:00-11:00|19 Ağustos 2025|MAK
+30453|MAK|201E|Engineering Mathematics|Hakan Öksüzoğlu|Final Sınavı|Gümüşsuyu/Makina Binası-D317|Salı|09:00-11:00|19 Ağustos 2025|MAK
+30454|MAK|202E|Numerical Meth.for Mech. Eng.|Bülent Bölat|Final Sınavı|Gümüşsuyu/Makina Binası-D318|Perşembe|12:00-14:00|21 Ağustos 2025|MAK
+30456|AKM|204|Akışkanlar Mekaniği|Necati Erdem Ünal|Final Sınavı|Ayazağa/İnşaat Binası-A104|Çarşamba|09:00-11:00|20 Ağustos 2025|AKM
+30457|ISE|102|Programming I|Deniz Turgay Altılar|Final Sınavı|Ayazağa/Bilgisayar ve Bilişim Binası-122|Pazartesi|12:00-14:00|18 Ağustos 2025|ISE
+30459|FIZ|102E|Physics II|Yağız Morova|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-2102, Ayazağa/Elektrik-Elektronik Binası-2104, Ayazağa/Elektrik-Elektronik Binası-2106|Pazartesi|15:00-17:00|18 Ağustos 2025|FIZ
+30460|FIZ|102E|Physics II|Yağız Morova|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-4102, Ayazağa/Elektrik-Elektronik Binası-4104, Ayazağa/Elektrik-Elektronik Binası-5101|Pazartesi|15:00-17:00|18 Ağustos 2025|FIZ
+30461|EEF|281E|Linear Algebra & Applications|Semih Beyçimen|Final Sınavı|Ayazağa/Elektrik-Elektronik Binası-2102|Çarşamba|09:00-11:00|20 Ağustos 2025|EEF
+30462|AKM|204E|Fluid Mechanics|Elif Kartal|Final Sınavı|Ayazağa/Maden Binası-A203|Çarşamba|09:00-11:00|20 Ağustos 2025|AKM
+30463|FIZ|101E|Physics I|Sevtap Yıldız Özbek|Final Sınavı|Ayazağa/Fen-Edebiyat Binası-D101, Ayazağa/Fen-Edebiyat Binası-D105|Pazartesi|09:00-11:00|18 Ağustos 2025|FIZ
+30464|DFH|281E|Marine Environmental Chemistry|Yasin Arslanoğlu|Final Sınavı|Tuzla/Denizcilik Binası-İlgili Bölümce Açıklanacak|Pazartesi|09:00-11:00|18 Ağustos 2025|DFH
+30465|GEO|302E|Land Management|Mehmet İşiler|Final Sınavı|Ayazağa/İnşaat Binası-A1|Perşembe|15:00-17:00|21 Ağustos 2025|GEO
+30466|ATA|102|Atatürk İlk & İnkılap Trh II|Ebubekir Ceylan|Final Sınavı|Ayazağa/Merkezi Derslik Binası-B34|Perşembe|15:00-17:00|21 Ağustos 2025|ATA

@@ -1,0 +1,100 @@
+{
+  "calculation_date": "2025-08-20T16:35:21.202851",
+  "final_grade_info": {
+    "final_grade": 69.75,
+    "letter_grade": "DC",
+    "components": [
+      {
+        "name": "Q",
+        "score": 40.0,
+        "percentage": 25.0,
+        "average": 0.0,
+        "standard_deviation": 0.0,
+        "rank": null
+      },
+      {
+        "name": "H",
+        "score": 100.0,
+        "percentage": 25.0,
+        "average": 0.0,
+        "standard_deviation": 0.0,
+        "rank": null
+      },
+      {
+        "name": "V",
+        "score": 77.0,
+        "percentage": 25.0,
+        "average": 0.0,
+        "standard_deviation": 0.0,
+        "rank": null
+      },
+      {
+        "name": "F",
+        "score": 62.0,
+        "percentage": 25.0,
+        "average": 0.0,
+        "standard_deviation": 0.0,
+        "rank": null
+      }
+    ]
+  },
+  "component_analysis": [
+    {
+      "name": "Q",
+      "score": 40.0,
+      "percentage": 25.0,
+      "weighted_contribution": 10.0,
+      "average": 0.0,
+      "standard_deviation": 0.0,
+      "z_score": 0.0,
+      "percentile_rank": 50.0,
+      "rank": null,
+      "student_count": 0
+    },
+    {
+      "name": "H",
+      "score": 100.0,
+      "percentage": 25.0,
+      "weighted_contribution": 25.0,
+      "average": 0.0,
+      "standard_deviation": 0.0,
+      "z_score": 0.0,
+      "percentile_rank": 50.0,
+      "rank": null,
+      "student_count": 0
+    },
+    {
+      "name": "V",
+      "score": 77.0,
+      "percentage": 25.0,
+      "weighted_contribution": 19.25,
+      "average": 0.0,
+      "standard_deviation": 0.0,
+      "z_score": 0.0,
+      "percentile_rank": 50.0,
+      "rank": null,
+      "student_count": 0
+    },
+    {
+      "name": "F",
+      "score": 62.0,
+      "percentage": 25.0,
+      "weighted_contribution": 15.5,
+      "average": 0.0,
+      "standard_deviation": 0.0,
+      "z_score": 0.0,
+      "percentile_rank": 50.0,
+      "rank": null,
+      "student_count": 0
+    }
+  ],
+  "statistics": {
+    "total_components": 4,
+    "total_percentage": 100.0,
+    "average_score": 69.75,
+    "score_range": {
+      "min": 40.0,
+      "max": 100.0
+    }
+  }
+}
