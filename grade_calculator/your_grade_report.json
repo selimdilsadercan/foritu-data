@@ -1,0 +1,144 @@
+{
+  "calculation_date": "2025-08-20T16:53:09.891551",
+  "final_grade_info": {
+    "final_grade": 64.1805,
+    "letter_grade": "CC",
+    "grading_method": "sd_method",
+    "overall_average": 68.3815,
+    "overall_standard_deviation": 12.406939590406653,
+    "components": [
+      {
+        "name": "Midterm",
+        "score": 69.0,
+        "percentage": 25.0,
+        "average": 62.56,
+        "standard_deviation": 11.53,
+        "rank": 28
+      },
+      {
+        "name": "Homework1",
+        "score": 90.0,
+        "percentage": 5.0,
+        "average": 97.47,
+        "standard_deviation": 4.2,
+        "rank": 74
+      },
+      {
+        "name": "Homework2",
+        "score": 100.0,
+        "percentage": 10.0,
+        "average": 94.62,
+        "standard_deviation": 8.16,
+        "rank": 29
+      },
+      {
+        "name": "Homework3",
+        "score": 75.0,
+        "percentage": 15.0,
+        "average": 86.43,
+        "standard_deviation": 9.32,
+        "rank": 66
+      },
+      {
+        "name": "Quiz",
+        "score": 15.61,
+        "percentage": 5.0,
+        "average": 34.59,
+        "standard_deviation": 29.49,
+        "rank": 44
+      },
+      {
+        "name": "Final",
+        "score": 51.0,
+        "percentage": 40.0,
+        "average": 59.28,
+        "standard_deviation": 11.9,
+        "rank": 60
+      }
+    ]
+  },
+  "component_analysis": [
+    {
+      "name": "Midterm",
+      "score": 69.0,
+      "percentage": 25.0,
+      "weighted_contribution": 17.25,
+      "average": 62.56,
+      "standard_deviation": 11.53,
+      "z_score": 0.5585429314830874,
+      "percentile_rank": 71.17631514544169,
+      "rank": 28,
+      "student_count": 80
+    },
+    {
+      "name": "Homework1",
+      "score": 90.0,
+      "percentage": 5.0,
+      "weighted_contribution": 4.5,
+      "average": 97.47,
+      "standard_deviation": 4.2,
+      "z_score": -1.7785714285714282,
+      "percentile_rank": 3.765502588354491,
+      "rank": 74,
+      "student_count": 80
+    },
+    {
+      "name": "Homework2",
+      "score": 100.0,
+      "percentage": 10.0,
+      "weighted_contribution": 10.0,
+      "average": 94.62,
+      "standard_deviation": 8.16,
+      "z_score": 0.6593137254901955,
+      "percentile_rank": 74.51528348198066,
+      "rank": 29,
+      "student_count": 80
+    },
+    {
+      "name": "Homework3",
+      "score": 75.0,
+      "percentage": 15.0,
+      "weighted_contribution": 11.25,
+      "average": 86.43,
+      "standard_deviation": 9.32,
+      "z_score": -1.2263948497854085,
+      "percentile_rank": 11.002506159540083,
+      "rank": 66,
+      "student_count": 80
+    },
+    {
+      "name": "Quiz",
+      "score": 15.61,
+      "percentage": 5.0,
+      "weighted_contribution": 0.7805,
+      "average": 34.59,
+      "standard_deviation": 29.49,
+      "z_score": -0.6436080027127842,
+      "percentile_rank": 25.991482975919816,
+      "rank": 44,
+      "student_count": 80
+    },
+    {
+      "name": "Final",
+      "score": 51.0,
+      "percentage": 40.0,
+      "weighted_contribution": 20.4,
+      "average": 59.28,
+      "standard_deviation": 11.9,
+      "z_score": -0.6957983193277312,
+      "percentile_rank": 24.327757096283715,
+      "rank": 60,
+      "student_count": 80
+    }
+  ],
+  "statistics": {
+    "total_components": 6,
+    "total_percentage": 100.0,
+    "average_score": 66.76833333333333,
+    "score_range": {
+      "min": 15.61,
+      "max": 100.0
+    },
+    "grading_method": "sd_method"
+  }
+}

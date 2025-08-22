@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İTÜ Grade Calculator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .content {
+            padding: 30px;
+        }
+
+        .api-section {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 25px;
+            margin-bottom: 30px;
+            border: 2px dashed #dee2e6;
+        }
+
+        .api-section h3 {
+            color: #495057;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .api-section h3::before {
+            content: "🔗";
+            font-size: 1.2em;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #495057;
+        }
+
+        .form-group input, .form-group select {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+
+        .form-group input:focus, .form-group select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .results-section {
+            display: none;
+            margin-top: 30px;
+        }
+
+        .grade-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .grade-card h2 {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        .grade-card .letter-grade {
+            font-size: 4em;
+            font-weight: bold;
+            margin: 20px 0;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .grade-card .numerical-grade {
+            font-size: 1.5em;
+            opacity: 0.9;
+        }
+
+        .components-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .components-table th {
+            background: #495057;
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        .components-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #e9ecef;
+        }
+
+        .components-table tr:hover {
+            background: #f8f9fa;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #6c757d;
+        }
+
+        .loading::after {
+            content: "";
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-left: 10px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border: 1px solid #f5c6cb;
+        }
+
+        .info-box {
+            background: #d1ecf1;
+            color: #0c5460;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border: 1px solid #bee5eb;
+        }
+
+        .method-selector {
+            display: flex;
+            gap: 15px;
+            margin: 20px 0;
+        }
+
+        .method-option {
+            flex: 1;
+            padding: 15px;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            cursor: pointer;
+            text-align: center;
+            transition: all 0.3s;
+        }
+
+        .method-option:hover {
+            border-color: #667eea;
+        }
+
+        .method-option.selected {
+            border-color: #667eea;
+            background: #f8f9ff;
+        }
+
+        .method-option h4 {
+            margin-bottom: 8px;
+            color: #495057;
+        }
+
+        .method-option p {
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>İTÜ Grade Calculator</h1>
+            <p>Öğrenci portalından veri çekerek harf notunuzu hesaplayın</p>
+        </div>
+
+        <div class="content">
+            <div class="api-section">
+                <h3>API Bağlantısı</h3>
+                <div class="form-group">
+                    <label for="jwtToken">JWT Token:</label>
+                    <input type="text" id="jwtToken" placeholder="JWT token'ınızı buraya yapıştırın">
+                </div>
+                <div class="form-group">
+                    <label for="courseId">Ders ID:</label>
+                    <input type="text" id="courseId" placeholder="244894" value="244894">
+                </div>
+                <button class="btn" onclick="fetchGrades()">Notları Getir</button>
+            </div>
+
+            <div class="method-selector">
+                <div class="method-option selected" onclick="selectMethod('catalog')">
+                    <h4>📚 Katalog Yöntemi</h4>
+                    <p>Sabit not sınırları kullanır (90+ = AA)</p>
+                </div>
+                <div class="method-option" onclick="selectMethod('sd_method')">
+                    <h4>📊 SD Yöntemi</h4>
+                    <p>Standart sapma bazlı notlandırma</p>
+                </div>
+            </div>
+
+            <div id="loading" class="loading" style="display: none;">
+                Notlar getiriliyor...
+            </div>
+
+            <div id="error" class="error" style="display: none;"></div>
+
+            <div id="results" class="results-section">
+                <div class="grade-card">
+                    <h2>Harf Notunuz</h2>
+                    <div id="letterGrade" class="letter-grade">-</div>
+                    <div id="numericalGrade" class="numerical-grade">Sayısal Not: -</div>
+                    <div id="methodInfo">Yöntem: Katalog</div>
+                </div>
+
+                <table class="components-table">
+                    <thead>
+                        <tr>
+                            <th>Bileşen</th>
+                            <th>Not</th>
+                            <th>Ağırlık</th>
+                            <th>Sınıf Ortalaması</th>
+                            <th>Standart Sapma</th>
+                            <th>Sıralama</th>
+                            <th>Z-Score</th>
+                        </tr>
+                    </thead>
+                    <tbody id="componentsTable">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentMethod = 'catalog';
+        let gradeData = null;
+
+        function selectMethod(method) {
+            currentMethod = method;
+            
+            // Update UI
+            document.querySelectorAll('.method-option').forEach(option => {
+                option.classList.remove('selected');
+            });
+            event.target.closest('.method-option').classList.add('selected');
+            
+            // Recalculate if we have data
+            if (gradeData) {
+                calculateGrade();
+            }
+        }
+
+        async function fetchGrades() {
+            const jwtToken = document.getElementById('jwtToken').value.trim();
+            const courseId = document.getElementById('courseId').value.trim();
+
+            if (!jwtToken) {
+                showError('Lütfen JWT token giriniz.');
+                return;
+            }
+
+            if (!courseId) {
+                showError('Lütfen ders ID giriniz.');
+                return;
+            }
+
+            showLoading(true);
+            hideError();
+
+            try {
+                const response = await fetch(`https://obs.itu.edu.tr/api/ogrenci/Sinif/SinifDonemlciNotListesi/${courseId}`, {
+                    method: 'GET',
+                    headers: {
+                        'Authorization': `Bearer ${jwtToken}`,
+                        'Accept': 'application/json',
+                        'Content-Type': 'application/json'
+                    }
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                
+                if (data.sinifDonemIciNotListesi && data.sinifDonemIciNotListesi.length > 0) {
+                    gradeData = data.sinifDonemIciNotListesi;
+                    calculateGrade();
+                } else {
+                    showError('Bu ders için not verisi bulunamadı.');
+                }
+
+            } catch (error) {
+                console.error('Error fetching grades:', error);
+                showError(`Veri getirme hatası: ${error.message}`);
+            } finally {
+                showLoading(false);
+            }
+        }
+
+        function calculateGrade() {
+            if (!gradeData) return;
+
+            const components = gradeData.map(item => ({
+                name: item.degerlendirmeOlcutuAdi,
+                score: parseFloat(item.not),
+                percentage: parseFloat(item.degerlendirmeKatkisi),
+                average: parseFloat(item.ortalama),
+                standard_deviation: parseFloat(item.standartSapma),
+                student_count: parseInt(item.ogrenciSayisi),
+                rank: parseInt(item.sinifSirasi)
+            }));
+
+            // Calculate weighted grade
+            let weightedSum = 0;
+            let totalPercentage = 0;
+
+            components.forEach(comp => {
+                weightedSum += (comp.score * comp.percentage / 100.0);
+                totalPercentage += comp.percentage;
+            });
+
+            const finalGrade = totalPercentage > 0 ? weightedSum * (100.0 / totalPercentage) : 0;
+
+            // Calculate letter grade
+            let letterGrade;
+            if (currentMethod === 'sd_method') {
+                // Calculate overall statistics for SD method
+                const overallAverage = components.reduce((sum, comp) => 
+                    sum + (comp.average * comp.percentage), 0) / totalPercentage;
+                
+                const overallStdDev = Math.sqrt(
+                    components.reduce((sum, comp) => 
+                        sum + (comp.standard_deviation ** 2 * comp.percentage), 0) / totalPercentage
+                );
+
+                letterGrade = assignLetterGradeSD(finalGrade, overallAverage, overallStdDev);
+            } else {
+                letterGrade = assignLetterGradeCatalog(finalGrade);
+            }
+
+            // Update UI
+            document.getElementById('letterGrade').textContent = letterGrade;
+            document.getElementById('numericalGrade').textContent = `Sayısal Not: ${finalGrade.toFixed(2)}`;
+            document.getElementById('methodInfo').textContent = `Yöntem: ${currentMethod === 'catalog' ? 'Katalog' : 'SD'}`;
+
+            // Update components table
+            const tableBody = document.getElementById('componentsTable');
+            tableBody.innerHTML = '';
+
+            components.forEach(comp => {
+                const zScore = comp.standard_deviation > 0 ? 
+                    (comp.score - comp.average) / comp.standard_deviation : 0;
+
+                const row = tableBody.insertRow();
+                row.innerHTML = `
+                    <td><strong>${comp.name}</strong></td>
+                    <td>${comp.score.toFixed(2)}</td>
+                    <td>%${comp.percentage.toFixed(1)}</td>
+                    <td>${comp.average.toFixed(2)}</td>
+                    <td>${comp.standard_deviation.toFixed(2)}</td>
+                    <td>${comp.rank}/${comp.student_count}</td>
+                    <td>${zScore.toFixed(2)}</td>
+                `;
+            });
+
+            document.getElementById('results').style.display = 'block';
+        }
+
+        function assignLetterGradeCatalog(grade) {
+            if (grade >= 90) return "AA";
+            if (grade >= 85) return "BA";
+            if (grade >= 80) return "BB";
+            if (grade >= 75) return "CB";
+            if (grade >= 70) return "CC";
+            if (grade >= 65) return "DC";
+            if (grade >= 60) return "DD";
+            if (grade >= 50) return "FD";
+            return "FF";
+        }
+
+        function assignLetterGradeSD(grade, average, standardDeviation) {
+            if (standardDeviation <= 0) {
+                return assignLetterGradeCatalog(grade);
+            }
+
+            const zScore = (grade - average) / standardDeviation;
+
+            if (zScore >= 1.5) return "AA";
+            if (zScore >= 1.0) return "BA";
+            if (zScore >= 0.5) return "BB";
+            if (zScore >= 0.0) return "CB";
+            if (zScore >= -0.5) return "CC";
+            if (zScore >= -1.0) return "DC";
+            if (zScore >= -1.5) return "DD";
+            if (zScore >= -2.0) return "FD";
+            return "FF";
+        }
+
+        function showLoading(show) {
+            document.getElementById('loading').style.display = show ? 'block' : 'none';
+        }
+
+        function showError(message) {
+            const errorDiv = document.getElementById('error');
+            errorDiv.textContent = message;
+            errorDiv.style.display = 'block';
+        }
+
+        function hideError() {
+            document.getElementById('error').style.display = 'none';
+        }
+
+        // Instructions for getting JWT token
+        document.addEventListener('DOMContentLoaded', function() {
+            const infoBox = document.createElement('div');
+            infoBox.className = 'info-box';
+            infoBox.innerHTML = `
+                <strong>JWT Token Nasıl Alınır:</strong><br>
+                1. Öğrenci portalına giriş yapın<br>
+                2. F12 tuşuna basarak Developer Tools'u açın<br>
+                3. Network sekmesine gidin<br>
+                4. Sayfayı yenileyin<br>
+                5. "SinifDonemlciNotListesi" isteklerinden birini bulun<br>
+                6. Request Headers'dan "Authorization" değerini kopyalayın<br>
+                7. "Bearer " kısmını çıkarıp sadece token'ı yapıştırın
+            `;
+            document.querySelector('.api-section').appendChild(infoBox);
+        });
+    </script>
+</body>
+</html>

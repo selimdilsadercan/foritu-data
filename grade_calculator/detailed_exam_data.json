@@ -3,43 +3,44 @@
     {
       "name": "Q",
       "score": 40.0,
-      "percentage": 15.0,
-      "average": 68.06,
-      "standard_deviation": 16.41,
-      "student_count": 78,
-      "rank": 66
+      "percentage": 0.0,
+      "average": 0.0,
+      "standard_deviation": 0.0,
+      "student_count": 0,
+      "rank": null
     },
     {
       "name": "H",
       "score": 100.0,
-      "percentage": 15.0,
-      "average": 100.0,
+      "percentage": 0.0,
+      "average": 0.0,
       "standard_deviation": 0.0,
-      "student_count": 74,
-      "rank": 18
+      "student_count": 0,
+      "rank": null
     },
     {
       "name": "V",
       "score": 77.0,
-      "percentage": 30.0,
-      "average": 52.03,
-      "standard_deviation": 21.26,
-      "student_count": 76,
-      "rank": 13
+      "percentage": 0.0,
+      "average": 0.0,
+      "standard_deviation": 0.0,
+      "student_count": 0,
+      "rank": null
     },
     {
       "name": "F",
       "score": 62.0,
-      "percentage": 40.0,
-      "average": 59.66,
-      "standard_deviation": 13.15,
-      "student_count": 78,
-      "rank": 27
+      "percentage": 0.0,
+      "average": 0.0,
+      "standard_deviation": 0.0,
+      "student_count": 0,
+      "rank": null
     }
   ],
   "statistics": {
-    "total_students": 78,
-    "course_name": "Your Course",
-    "semester": "2024-2025"
+    "total_students": 0,
+    "course_name": "Computer Architecture",
+    "semester": "2024-2025 - Yaz Dönemi",
+    "grading_method": "catalog"
   }
 }
